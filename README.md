@@ -6,7 +6,7 @@ In this project, we analyse the orbital evolution of Extreme Mass Ratio Inspiral
 * Test the accuracy of the orbital evolution using a constraint equation.
 * Visualise the orbits using 3D Cartesian coordinates.
 * Model the associated gravitational waveform using the Einstein-quadrupole approximation.
-* Investigate the Liouville integrability of the equations of motion using Poincaré map and Rotation number curve.
+* Investigate the Liouville integrability of the equations of motion using Poincaré surface of section and Rotation number curve.
 
 
 ## Theoretical Knowledge
