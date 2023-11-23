@@ -1,4 +1,4 @@
-# Orbital Evolution of Extreme Mass Ratio Binaries
+# Orbital Evolution of Extreme Mass Ratio Inspirals
 
 In this project, we analyse the orbital evolution of Extreme Mass Ratio Inspirals (EMRIs) in stationary and axisymmetric spacetimes, according to Einstein's general theory of relativity. A spacetime with a [modified Johannsen metric](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.102.064041) is chosen to evolve the system. The following tasks are performed in this project:
 
